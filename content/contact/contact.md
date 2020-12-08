@@ -29,16 +29,4 @@ design:
   columns: '1'
 ---
 
-Friluftsterapi tilbys ungdom i alderen 16 - 18 år. Siden dette er et behandlingstilbud innen spesialisthelsetjenesten trengs det en henvisning til Sørlandet sykehus, ABUP. Det betyr at alle som deltar i friluftsterapi har psykiske helseutfordringer som medfører en del utfordringer i hverdagen, og som de ønsker hjelp for (f. eks. tanker og følelser som er vanskelige å forstå og håndtere, depresjon, angst, lavt selvbilde, tilbaketrekking, tilpassingsproblemer, atferdsmessige utfordringer osv.). Tilbudet passer ikke for alle, men er veldig fint for noen! Det trengs ingen forkunnskaper eller spesielle fysiske forutsetninger for å kunne delta, men deltakere bør synes det er ok;
-
--å motta sin behandling i, og å være en del av en gruppe 
-
--å være mye utendørs
-
--at vi stiller krav om jevnlig oppmøte
-
--at vi informerer kjernepersoner om deltakelsen (foresatte, lærer, arbeidsleder el.)
-
--å utfordre seg selv og sin egen komfortsone i trygge og støttende omgivelser
-
-I løpet av de 3 ukene friluftsterapien pågår kan vi garantere flotte opplevelser, morsomme situasjoner, spenning og utfordringer.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
