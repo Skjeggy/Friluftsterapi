@@ -9,6 +9,11 @@
 #  weight = 10
 
 [[main]]
+  name = "Om oss"
+  url = "about"
+  weight = 15
+
+[[main]]
   name = "Nyheter"
   url = "post"
   weight = 20
@@ -32,3 +37,4 @@
   name = "Kontakt oss"
   url = "contact"
   weight = 60
+
