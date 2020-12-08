@@ -2,7 +2,7 @@
 title: Offisiell åpning av gapahuk
 date: 2019-10-29
 image:
-  filename: gapahuk.jpg 
+  filename: featured.jpg 
   focal_point: Smart
   preview_only: false
   caption: ""

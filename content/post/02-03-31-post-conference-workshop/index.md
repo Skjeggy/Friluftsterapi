@@ -2,7 +2,7 @@
 title: Pre- & post-conference workshops
 date: 2020-03-31
 image:
-  filename: fikse.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: ""
