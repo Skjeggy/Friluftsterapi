@@ -1,7 +1,7 @@
 ---
-title: Carina Ribe Fernee
+title: Vibeke Palucha
 role: Researcher
-avatar_filename: palucha.jpg
+avatar_filename: avatar.jpg
 bio: Ipsum Lorem Dolem.
 interests:
   - Friluftsterapi
