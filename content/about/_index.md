@@ -13,6 +13,7 @@ design:
 header:
   caption: ""
   image: https://friluftsterapi.com/_files/200000156-8c37f8e2cd/DSC01290.jpg 
+  focal_point: Right
 ---
 
 # Hva er friluftsterapi ? 
