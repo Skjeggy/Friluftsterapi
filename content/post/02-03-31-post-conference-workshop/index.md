@@ -3,8 +3,6 @@ title: Pre- & post-conference workshops
 date: 2020-03-31
 ---
 
-Pre- & post-conference workshops
-
 <!--more-->
 
 The 9th International Adventure Therapy Conference (9IATC)/3rd Gathering for Adventure Therapy in Europe (3GATE) is only a little over a year away and it is time to start planning the pre- and post-conference program.

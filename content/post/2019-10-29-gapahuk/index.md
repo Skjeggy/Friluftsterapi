@@ -8,8 +8,6 @@ image:
   caption: ""
 ---
 
-Offisiell åpning av gapahuk!
-
 <!--more-->
 
 Friluftsteamets egen Vibeke Palucha fikk æren av å klippe snoren – eller «kappe tauet» i ekte friluftstil – da gapahuken ved Sørlandet sykehus ble åpnet onsdag 23. oktober 2019. 
