@@ -2,9 +2,9 @@
 title: Offisiell åpning av gapahuk
 date: 2019-10-29
 image:
-  filename: https://friluftsterapi.webnode.com/_files/200000286-3fc003fc03/%C3%85pning%20av%20gapahuk%201.jpg 
+  filename: gapahuk.jpg 
   focal_point: Smart
-  preview_only: true
+  preview_only: false
   caption: ""
 ---
 
@@ -17,5 +17,3 @@ Utbedringen av uteområdet har pågått i ett par år, hvor ansatte og pasienter
 Uteområdet, gapahuken og friluftsykehuset like ved er tilgjengelig for hele sykehuset for både ansatte og pasienter. Både ute- og inneområdene kan benyttes som et sted å trekke seg tilbake til og er tenkt som en naturlig frisone som skal være lett tilgjengelig for alle.
 
 På sikt er det ønskelig at grøntområdene rundt sykehuset blir benyttet på en mer systematisk måte for å støtte bedringsprosesser ved å legge til rette for gode opplevelser og gi pusterom ute i det fri.
-
-![Bilde av gapahuk](https://friluftsterapi.webnode.com/_files/200000286-3fc003fc03/%C3%85pning%20av%20gapahuk%201.jpg)
