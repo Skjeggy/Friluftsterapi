@@ -12,7 +12,8 @@ image:
   caption: null
   focal_point: Right
   filename: featured.png
-  preview_only: true
+  preview_only: false
+
 
 design:
   columns: "1"
