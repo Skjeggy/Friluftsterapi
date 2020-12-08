@@ -17,4 +17,8 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Her blir du bedre kjent med Friluftsteamet ved Avdeling for barn og unges psykiske helse (Abup) på Sørlandet sykehus HF. Friluftsteamet er ansvarlig for behandlingstilbudet vi har kalt Friluftsterapi, samt dagtilbudene UT-gruppe (i Arendal) og Basecamp (i Kristiansand).
+
+På disse sidene finner du informasjon som kan være av interesse enten du vurderer å delta i noen av tilbudene, er deltaker allerede, pårørende eller fagperson. Vi legger fortløpende ut nyheter, artikler og bilder.
+
+Ta gjerne kontakt med oss om du lurer på noe eller har kommentarer til nettsiden! 
