@@ -12,7 +12,7 @@ design:
   columns: "1"
   background:
     image: about.jpg
-    image_darken: 0
+    image_darken: 3
     image_parallax: false
     image_position: right
     image_size: cover
