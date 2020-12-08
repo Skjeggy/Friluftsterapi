@@ -1,6 +1,11 @@
 ---
 title: Offisiell åpning av gapahuk
 date: 2019-10-29
+image:
+  filename: https://friluftsterapi.webnode.com/_files/200000286-3fc003fc03/%C3%85pning%20av%20gapahuk%201.jpg 
+  focal_point: Smart
+  preview_only: true
+  caption: ""
 ---
 
 Offisiell åpning av gapahuk!
