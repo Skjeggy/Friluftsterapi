@@ -1,19 +1,15 @@
 ---
-title: Om oss
 widget: blank
+
 headless: true
+
+# Order that this section appears on the page.
+weight: 10
+
+title: Om oss
 
 design:
   columns: "1"
-  background:
-    color: 'navy'
-    text_color_light: true
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: https://friluftsterapi.com/_files/200000156-8c37f8e2cd/DSC01290.jpg 
-  focal_point: Right
 ---
 
 ## Hva er friluftsterapi ? 
@@ -30,7 +26,3 @@ Etter endt friluftsterapi er det et mål at deltakeren, i tillegg til redusert s
  
 
 UT-gruppene og Basecamp er dagtilbud ved ABUP i henholdsvis Arendal og Kristiansand. Elementer fra friluftsterapien tilpasses disse dagene og terapeutene har oftest erfaring fra våre lengre turer. Daggruppene er åpne for ungdom som mottar et eller annet tilbud ved ABUP, og fungerer til en viss grad etter drop-inn prinsippet.
-
-
-
-Les mer: https://www.friluftsterapi.com/om-oss/
