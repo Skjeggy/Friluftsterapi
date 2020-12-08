@@ -1,6 +1,11 @@
 ---
 title: Pre- & post-conference workshops
 date: 2020-03-31
+image:
+  filename: featured.jpg
+  focal_point: Smart
+  preview_only: true
+  caption: ""
 ---
 
 <!--more-->
