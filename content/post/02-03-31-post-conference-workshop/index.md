@@ -1,9 +1,9 @@
 ---
-title: PRE- & POST-CONFERENCE WORKSHOPS
+title: Pre- & post-conference workshops
 date: 2020-03-31
 ---
 
-PRE- & POST-CONFERENCE WORKSHOPS
+Pre- & post-conference workshops
 
 <!--more-->
 
