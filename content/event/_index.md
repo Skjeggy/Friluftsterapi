@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Nylige og kommende arrangementer
 
 # This is the event/talk archive page.
 layout: talk

@@ -24,7 +24,7 @@
   weight = 30
 
 [[main]]
-  name = "Events"
+  name = "Arrangementer"
   url = "event"
   weight = 40
 
