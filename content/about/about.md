@@ -10,6 +10,15 @@ title: Om oss
 
 design:
   columns: "1"
+  background:
+    image: about.jpg
+    image_darken: 0
+    image_parallax: false
+    image_position: right
+    image_size: cover
+    text_color_light: true
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
 ---
 
 <p>&nbsp;</p>
