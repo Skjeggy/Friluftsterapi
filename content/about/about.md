@@ -8,17 +8,15 @@ weight: 10
 
 title: Om oss
 
+image:
+  caption: null
+  focal_point: Right
+  filename: featured.png
+  preview_only: true
+
 design:
   columns: "1"
-  background:
-    image: about.jpg
-    image_darken: 1
-    image_parallax: false
-    image_position: right
-    image_size: cover
-    text_color_light: true
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+  image:
 ---
 
 <p>&nbsp;</p>
