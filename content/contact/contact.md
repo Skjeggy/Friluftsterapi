@@ -29,4 +29,16 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Friluftsterapi tilbys ungdom i alderen 16 - 18 år. Siden dette er et behandlingstilbud innen spesialisthelsetjenesten trengs det en henvisning til Sørlandet sykehus, ABUP. Det betyr at alle som deltar i friluftsterapi har psykiske helseutfordringer som medfører en del utfordringer i hverdagen, og som de ønsker hjelp for (f. eks. tanker og følelser som er vanskelige å forstå og håndtere, depresjon, angst, lavt selvbilde, tilbaketrekking, tilpassingsproblemer, atferdsmessige utfordringer osv.). Tilbudet passer ikke for alle, men er veldig fint for noen! Det trengs ingen forkunnskaper eller spesielle fysiske forutsetninger for å kunne delta, men deltakere bør synes det er ok;
+
+-å motta sin behandling i, og å være en del av en gruppe 
+
+-å være mye utendørs
+
+-at vi stiller krav om jevnlig oppmøte
+
+-at vi informerer kjernepersoner om deltakelsen (foresatte, lærer, arbeidsleder el.)
+
+-å utfordre seg selv og sin egen komfortsone i trygge og støttende omgivelser
+
+I løpet av de 3 ukene friluftsterapien pågår kan vi garantere flotte opplevelser, morsomme situasjoner, spenning og utfordringer.
