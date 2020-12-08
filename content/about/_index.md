@@ -16,7 +16,8 @@ header:
   focal_point: Right
 ---
 
-# Hva er friluftsterapi ? 
+## Hva er friluftsterapi ? 
+
 
 **"Friluftsterapi er en spesialisert tilnærming til psykisk helsearbeid som kombinerer individuell og gruppebasert terapeutisk virksomhet med grunnleggende friluftsliv, og som involverer deltakerne gjennom økologiske, fysiologiske og psykologiske prosesser"**
 
