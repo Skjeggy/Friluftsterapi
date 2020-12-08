@@ -1,5 +1,13 @@
 ---
 title: Om oss
+widget: blank
+headless: true
+
+design:
+  columns: "1"
+  background:
+    color: 'navy'
+    text_color_light: true
 
 # Optional header image (relative to `static/media/` folder).
 header:
